@@ -7,7 +7,7 @@ Design drawing of the bracket for mounting a NEMA 11 geared stepper motor on a G
 * GP Motor Base (STL)
   * GP Motor Base Parts1 : t5mm Al (DRAWINGS)
   * GP Motor Base Parts2 : t5mm Al (DRAWINGS)
-* NEMA11 Geared Bracket : 3D Printed Parts (STL)
+* NEMA11 Geared Bracket : 3D Printed Parts ([STL](NEMA11%20Geared%20Bracket.stl))
 * GP Motor Cover : 3D Printed Parts (STL)
 
 ## Pictures
