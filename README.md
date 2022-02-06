@@ -23,5 +23,6 @@ https://user-images.githubusercontent.com/6793745/152669676-45784982-78b3-44c9-a
 
 ## License
 * ![CC-BY-SA](https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=150&h=52)
-https://creativecommons.org/licenses/by-sa/4.0/
+  * https://creativecommons.org/licenses/by-sa/4.0/
 * [TAPR Open Hardware License (OHL)](https://tapr.org/the-tapr-open-hardware-license/)
+  * https://files.tapr.org/OHL/TAPR_Open_Hardware_License_v1.0.txt
