@@ -19,3 +19,6 @@ It can be used as a motor unit to implement [OnStep](https://onstep.groups.io/g/
 |  <img src="imgs/Motor2.jpg" width="500">  |  <img src="imgs/Motor3.jpg" width="500">  |
 |  <img src="imgs/Motor4.jpg" width="500">  |  [Movie](imgs/Drive.mp4)  |
 
+<video width="320" height="240" controls>
+  <source src="imgs/Drive.mp4" type="video/mp4">
+</video>
