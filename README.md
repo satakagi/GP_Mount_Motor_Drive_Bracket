@@ -3,8 +3,8 @@ This is the design drawing of the bracket for mounting a NEMA 11 geared stepper 
 It can be used as a motor unit to implement [OnStep](https://onstep.groups.io/g/main) on a GP equatorial mount.
 
 ## Parts List
-* Nema11 Stepper Motor with 20:1 Planetary Gearbox (28HS2806A4XG 28XGJ-20)
-* KYOIKU GEARS S75B40B+0306 (Module0.75 40teeth 30mm shaft6mm)
+* [Nema11 Stepper Motor with 20:1 Planetary Gearbox](https://www.ebay.com/sch/i.html?_nkw=planetary+gearbox+nema11+stepper) (28HS2806A4XG 28XGJ-20)
+* [KYOIKU GEARS S75B40B+0306](https://sg.misumi-ec.com/vona2/detail/221000073027/?HissuCode=S75B40B%2B0306) (Module0.75 40teeth 30mm shaft6mm)
 * GP Motor Base ([STL](GP%20Motor%20Base.stl))
   * GP Motor Base Parts1 : t5mm Al ([DRAWINGS](GP%20Motor%20Base1.png))
   * GP Motor Base Parts2 : t5mm Al ([DRAWINGS](GP%20Motor%20Base2.png))
