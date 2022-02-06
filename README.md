@@ -13,6 +13,8 @@ https://user-images.githubusercontent.com/6793745/152669676-45784982-78b3-44c9-a
 * NEMA11 Geared Bracket : 3D Printed Parts ([STL](NEMA11%20Geared%20Bracket.stl))
 * GP Motor Cover : 3D Printed Parts ([STL](GP%20Motor%20Cover%20v15.stl))
 
+When a NEMA 11 stepper motor with a gear ratio of 1:20 was driven by 12V, it was possible to introduce 480x speed. However, this may depend on the condition of the equatorial mount bearings.
+
 ## Pictures
 
 |  <img src="imgs/GP_Mount0.jpg" width="500">  |  <img src="imgs/GP_Mount1.jpg" width="500">  |
