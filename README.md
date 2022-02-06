@@ -1,5 +1,6 @@
 # GP_Mount_Motor_Drive_Bracket
-Design drawing of the bracket for mounting a NEMA 11 geared stepper motor on a GP equatorial mount
+Design drawing of the bracket for mounting a NEMA 11 geared stepper motor on a GP equatorial mount.
+It can be used as a motor unit to implement [OnStep](https://onstep.groups.io/g/main) on a GP equatorial mount.
 
 ## Parts List
 * Nema11 Stepper Motor with 20:1 Planetary Gearbox (28HS2806A4XG 28XGJ-20)
