@@ -25,7 +25,7 @@ When a NEMA 11 stepper motor with a gear ratio of 1:20 was driven by 12V, it was
 |  <img src="imgs/Motor4.jpg" width="500">  |  - |
 
 ## License
-* ![CC-BY-SA](https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=150&h=52)
-  * https://creativecommons.org/licenses/by-sa/4.0/
 * [TAPR Open Hardware License (OHL)](https://tapr.org/the-tapr-open-hardware-license/)
   * https://files.tapr.org/OHL/TAPR_Open_Hardware_License_v1.0.txt
+* ![CC-BY-SA](https://komtmt.files.wordpress.com/2015/04/by-sa.png?w=150&h=52)
+  * https://creativecommons.org/licenses/by-sa/4.0/
