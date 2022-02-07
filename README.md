@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/6793745/152669676-45784982-78b3-44c9-a
 * GP Motor Cover : 3D Printed Parts ([STL](GP%20Motor%20Cover%20v15.stl))
 
 ## Note
-When a NEMA 11 stepper motor with a gear ratio of 1:20 was driven by 12V, it was possible to introduce 480x speed. However, this may depend on the condition of the equatorial mount.
+When a NEMA 11 stepper motor with a gear ratio of 1:20 was driven by 12V, it was possible to introduce 480x speed. (OnStep MiniPCB V1 DRV8825 Teensy4)  However, this may depend on the condition of the equatorial mount.
 
 ## Pictures
 
