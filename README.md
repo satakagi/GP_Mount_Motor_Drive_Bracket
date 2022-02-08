@@ -22,7 +22,7 @@ When a NEMA 11 stepper motor with a gear ratio of 1:20 was driven by 12V, it was
 | ---- | ---- |
 |  <img src="imgs/Motor0.jpg" width="500">  |  <img src="imgs/Motor1.jpg" width="500">  |
 |  <img src="imgs/Motor2.jpg" width="500">  |  <img src="imgs/Motor3.jpg" width="500">  |
-|  <img src="imgs/Motor4.jpg" width="500">  |  <img src="imgs/PHD2OnStepGP.png" width="500"> Autoguiding with PHD2|
+|  <img src="imgs/Motor4.jpg" width="500">  |  <img src="imgs/PHD2OnStepGP.png" width="500"><br>Autoguiding with PHD2|
 
 ## License
 * [TAPR Open Hardware License (OHL)](https://tapr.org/the-tapr-open-hardware-license/)
